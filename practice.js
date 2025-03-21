@@ -164,7 +164,7 @@ const fs= require('fs')
 // 14. How would you append multiple lines of text to a file "log.txt" asynchronously without
 // overwriting the existing content?
 
-// fs.appendFile('log.txt','\nFirst line\nSecond line\nThird line',(err)=>{
+// fs.appendFile('hello.txt','\nFirst line\nSecond line\nThird line',(err)=>{
 //     if(err)throw err;
 //     console.log("multiples data added...");
 // })
